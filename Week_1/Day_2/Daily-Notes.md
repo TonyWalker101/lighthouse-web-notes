@@ -1,6 +1,6 @@
 ## Summary
 
-Learnt about assertion (*assertEqual*) and what it means to debug your own code (Source [MDN](https://developer.mozilla.org/en-US/docs/Web/API/console/assert))
+Learnt about assertion (*assertEqual*) and what it means to debug your own code (Source: [MDN](https://developer.mozilla.org/en-US/docs/Web/API/console/assert))
 
 ``` javascript
 const errorMsg = 'the # is not even';
