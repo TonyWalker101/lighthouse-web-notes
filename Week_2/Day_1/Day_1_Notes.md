@@ -1,6 +1,6 @@
 ## Summary
 
-Learnt the difference between a **for...in** (iterates though arrays) loop and a **for...of** loop (iterates through object keys)
+Learnt the difference between a **for...in** (iterates though object keys) loop and a **for...of** loop (iterates through arrays(and other iterable objects))
 
 Learnt how to use [.includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) to loop through arrays
 
