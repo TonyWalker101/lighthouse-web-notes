@@ -22,3 +22,4 @@ This repository contains all of the notes taken by [Tony](https://github.com/Ton
   * [Day 4](Week_3/Day_4)
 * [Week 4](/Week_4)
   * [Day 1](Week_4/Day_1)
+  * [Day 2](Week_4/Day_2)
