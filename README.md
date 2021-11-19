@@ -28,4 +28,5 @@ This repository contains all of the notes taken by [Tony](https://github.com/Ton
 * [Week 5](/Week_5)
   * [Day 1](Week_5/Day_1)
   * [Day 2](Week_5/Day_2)
+  * [Day 3](Week_5/Day_3)
 
