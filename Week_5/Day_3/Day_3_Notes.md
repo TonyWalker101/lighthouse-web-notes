@@ -22,8 +22,6 @@ Programmableweb.com => a ressource for finding APIs for common websites.
 
 Learnt something about Scottish Fold cats!
 
-```
-Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position”
-```
+"Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the _"Buddha Position”_"
 
 !["Scottish Fold"](https://i.pinimg.com/originals/7d/8d/d5/7d8dd51776698671a222a77b75fd8c22.png)
