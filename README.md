@@ -35,3 +35,8 @@ This repository contains all of the notes taken by [Tony](https://github.com/Ton
   * [Day 2](Week_6/Day_2)
   * [Day 3](Week_6/Day_3)
   * [Day 4](Week_6/Day_4)
+* [Week 7](/Week_7)
+  * [Day 1](Week_7/Day_1)
+  * [Day 2](Week_7/Day_2)
+  <!-- * [Day 3](Week_6/Day_3)
+  * [Day 4](Week_6/Day_4) -->
